@@ -4,7 +4,9 @@ The final code for code a pookalam challenge hosted by tinker hub MITS Kochi
 ------------------------------------------------------------------------------------------
 Links
 ------------------------------------------------------------------------------------------
+
 Pookalam: https://joel-sujo.github.io/code-a-pookalam/
 
-Landing page: https://joel-sujo.github.io/code-a-pookalam/onam/
+Landing Page: https://joel-sujo.github.io/code-a-pookalam/onam/
+
 ------------------------------------------------------------------------------------------
