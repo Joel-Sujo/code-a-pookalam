@@ -141,13 +141,6 @@
         background-clip: text;
         color: transparent;
       }
-      .subhead {
-        font-size: clamp(1rem, 1.5vw, 1.15rem);
-        line-height: 1.7;
-        color: var(--text-muted);
-        max-width: 58ch;
-        margin: 0 0 2.5rem;
-      }
       .stat-row {
         display: flex;
         flex-wrap: wrap;
@@ -371,20 +364,15 @@
     <nav class="nav">
       <a class="brand" href="#top">
         <span class="brand-mark" aria-hidden="true"></span>
-        പൂക്കളം <span class="brand-sub">/ pookkalam study</span>
+        Pookkalam <span class="brand-sub">/ p5.js study</span>
       </a>
       <span class="nav-tag">p5.js · onam 2026</span>
     </nav>
 
     <main id="top">
       <section class="hero">
-        <p class="eyebrow">Kerala · Generative Floor Art</p>
-        <h1>A pookkalam, <em>rendered</em> in code</h1>
-        <p class="subhead">
-          Every Onam, families lay concentric rings of fresh flower petals on thresholds 
-          to welcome King Mahabali. This study brings that tradition into the browser—built 
-          entirely out of procedural math, rotations, and layered botanical colors.
-        </p>
+        <p class="eyebrow">Generative Floor Art Study</p>
+        <h1>A Pookkalam, <em>rendered</em> in code</h1>
         <div class="stat-row">
           <div class="stat">
             <span class="stat-value">18</span>
@@ -447,7 +435,6 @@
 
     <script src="sketch.js"></script>
     <script>
-      // Automatically moves the p5 canvas element inside the styled preview container
       (function placeCanvas() {
         var target = document.getElementById("canvasStage");
         var c = document.querySelector("canvas");
