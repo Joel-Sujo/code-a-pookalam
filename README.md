@@ -7,6 +7,4 @@ Links
 
 Pookalam: https://joel-sujo.github.io/code-a-pookalam/
 
-Landing Page: https://joel-sujo.github.io/code-a-pookalam/onam/
-
 ------------------------------------------------------------------------------------------
